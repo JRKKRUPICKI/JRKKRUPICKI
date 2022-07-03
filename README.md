@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World!
+# Hello World!
 
 ## Języki programowania i frameworki
 <img align="left" alt="Java" height="30px" src="https://www.svgrepo.com/show/184143/java.svg" style="padding-right:10px;">
