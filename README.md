@@ -2,6 +2,7 @@
 
 ## Języki programowania i frameworki
 <img align="left" alt="Java" height="30px" src="https://www.svgrepo.com/show/184143/java.svg" style="padding-right:10px;">
+<img align="left" alt="TypeScript" height="30px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" style="padding-right:10px;">
 <img align="left" alt="React" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;">
 <img align="left" alt="Sass" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;">
 <img align="left" alt="NestJS" height="30px" src="https://www.svgrepo.com/show/354107/nestjs.svg" style="padding-right:10px;">
