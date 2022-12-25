@@ -1,4 +1,4 @@
-# Hello World!
+# Hi!
 
 ## Languages and frameworks
 <img align="left" alt="Java" height="30px" src="https://www.svgrepo.com/show/184143/java.svg" style="padding-right:10px;">
@@ -22,9 +22,13 @@
 <img align="left" alt="GitHub Desktop" height="30px" src="https://desktop.github.com/images/desktop-icon.svg" style="padding-right:10px;">
 <img alt="MySQL" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;">
 
-## Java Projects (Minecraft Server Plugins)
+# Projects
 
-**FireFishingRod** - No more raw fishes
+**Kanban Board** - task management board with draggable groups in rows and columns [Frontend-React](https://github.com/JRKKRUPICKI/Kanban-Frontend) [Backend-Django](https://github.com/JRKKRUPICKI/Kanban-Backend)
+
+## Java (Minecraft Server Plugins)
+
+[FireFishingRod](https://github.com/JRKKRUPICKI/FireFishingRod) - No more raw fishes 
 
 ## Statistics
 
