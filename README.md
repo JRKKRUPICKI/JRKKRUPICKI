@@ -1,6 +1,6 @@
 # Hello World!
 
-## Języki programowania i frameworki
+## Languages and frameworks
 <img align="left" alt="Java" height="30px" src="https://www.svgrepo.com/show/184143/java.svg" style="padding-right:10px;">
 <img align="left" alt="TypeScript" height="30px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" style="padding-right:10px;">
 <img align="left" alt="React" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;">
@@ -12,7 +12,7 @@
 <img align="left" alt="SQL" height="30px" src="https://www.svgrepo.com/show/255832/sql.svg" style="padding-right:10px;">
 <img alt="Python" height="30px" src="https://www.svgrepo.com/show/374016/python.svg" style="padding-right:10px;">
 
-## Narzędzia
+## Tools
 
 <img align="left" alt="Intellij Idea" height="30px" src="https://www.svgrepo.com/show/353906/intellij-idea.svg" style="padding-right:10px;">
 <img align="left" alt="Visual Studio Code" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;">
@@ -22,7 +22,11 @@
 <img align="left" alt="GitHub Desktop" height="30px" src="https://desktop.github.com/images/desktop-icon.svg" style="padding-right:10px;">
 <img alt="MySQL" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;">
 
-## Statystyki
+## Java Projects (Minecraft Server Plugins)
+
+**FireFishingRod** - No more raw fishes
+
+## Statistics
 
 <p align="center">
 <a href="https://github.com/JRKKRUPICKI">
