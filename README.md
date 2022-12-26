@@ -28,7 +28,8 @@
 
 ## Java (Minecraft Server Plugins)
 
-[FireFishingRod](https://github.com/JRKKRUPICKI/FireFishingRod) - No more raw fishes 
+[FireFishingRod](https://github.com/JRKKRUPICKI/FireFishingRod) - No more raw fishes
+[SheepTerrorist](https://github.com/JRKKRUPICKI/SheepTerrorist) - Exploding sheep after shearing
 
 ## Statistics
 
