@@ -31,17 +31,3 @@
 [FireFishingRod](https://github.com/JRKKRUPICKI/FireFishingRod) - No more raw fishes
 
 [SheepTerrorist](https://github.com/JRKKRUPICKI/SheepTerrorist) - Exploding sheep after shearing
-
-## Statistics
-
-<p align="center">
-<a href="https://github.com/JRKKRUPICKI">
-<img src="https://github-readme-stats.vercel.app/api?username=JRKKRUPICKI&title_color=007bff&text_color=e7e7e7&icon_color=007bff&border_color=007bff&bg_color=171c28&show_icons=true&layout=compact">
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/JRKKRUPICKI">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRKKRUPICKI&title_color=007bff&text_color=e7e7e7&border_color=007bff&bg_color=171c28&layout=compact">
-</a>
-</p>
